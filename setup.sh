@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JAVA_VERSION=21
+JAVA_VERSION=25
 SERVER_FILE_URL="https://piston-data.mojang.com/v1/objects/95495a7f485eedd84ce928cef5e223b757d2f764/server.jar"
 
 # Install latest version of Java
