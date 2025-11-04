@@ -2,9 +2,9 @@
 This is my personal, minimalistic Minecraft server setup.
 
 ## Tested Spec
-- Ubuntu 22.04
-- Java 21
-- 6 GB RAM & 4 vCPU Personal Singapore Server
+- Ubuntu 24
+- Java 25
+- EC2 (16 GB RAM & 2 vCPU) located in Jakarta
 
 ## Setup
 - Modify `server.properties` in any way you like.
